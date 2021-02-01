@@ -1,0 +1,5 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+eosinophil:128,0,0::
+neutrophil:0,128,0::
+mast cell:128,128,0::

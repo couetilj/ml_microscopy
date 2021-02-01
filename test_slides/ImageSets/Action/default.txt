@@ -1,0 +1,10 @@
+squamous cells-bacteria
+squamous cells-bacteria-neuts
+neuts-mucus
+hemosiderophages-rbc
+hemosiderophages-rbc-erythrophagia
+hemosiderophages-rbc-eosino
+hemosiderophages-rbc-2
+epith cells
+degenrated neuts2
+degenerated neuts
