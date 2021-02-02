@@ -1,0 +1,5 @@
+#/usr/bin/env bash
+python tswift-detection/convert_labels_to_tfrecord.py \
+--output_path=train.record \ 
+--images_dir=test_slides/JPEGImages/ \
+--labels_dir=test_slides/Annotations/ 
